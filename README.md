@@ -60,9 +60,9 @@ Git · GitHub · Microsoft Office · LibreOffice
 - Gestión de equipo, apertura/cierre de local y control de caja  
 - Atención al cliente y resolución de incidencias  
 - Organización, limpieza y supervisión de pedidos, inventario y suministros  
-- Experiencia en amasado, horno y preparación de pedidos  
+- Experiencia en amasado, horno y preparación de pedidos
 
-**Estudiante en prácticas** — Colegio La Purísima, Alzira, Valencia  
+**Estudiante en prácticas** — Colegio La Purísima, Alzira, Valencia  120 horas
 05/2025 - 06/2025  
 - Atención al cliente y gestión telefónica  
 - Apoyo administrativo y organización de recepción  
@@ -74,12 +74,6 @@ Git · GitHub · Microsoft Office · LibreOffice
 - Atención al cliente y gestión de ventas  
 - Reposición y organización del piso de venta  
 - Mantenimiento del orden y limpieza del local
-
-**Técnico Informático en prácticas**  
-*La Purísima Alzira | 120 horas*  
-- Instalación y mantenimiento de equipos  
-- Resolución de incidencias de conexión  
-- Atención al cliente y soporte básico  
 
 ---
 
