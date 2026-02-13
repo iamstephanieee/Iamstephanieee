@@ -6,99 +6,63 @@
 
 ## 🚀 Sobre mí  
 
-Soy técnica en Sistemas Microinformáticos y Redes con experiencia en montaje y reparación de equipos, administración de redes locales y soporte técnico a usuarios.  
+Técnica en Sistemas Microinformáticos y Redes con experiencia en montaje y mantenimiento de equipos, administración básica de redes y soporte técnico.  
 
-Me interesa especialmente la automatización de tareas, la virtualización de sistemas y el desarrollo y mantenimiento de sitios web con WordPress para entornos profesionales.
+Interesada en la automatización de tareas, virtualización de sistemas y desarrollo de sitios web con WordPress.  
 
-Actualmente busco mi primera oportunidad profesional en el sector tecnológico para ganar experiencia en entornos reales.
+Actualmente busco mi primera oportunidad profesional para seguir creciendo en el sector IT.
 
 ---
 
 ## 🛠️ Habilidades Técnicas  
 
-### 💻 Sistemas Operativos  
-- Windows 10 / 11  
-- Windows Server  
-- Linux (Ubuntu, Kali Linux)
+**Sistemas Operativos:**  
+Windows 10/11 · Windows Server · Linux (Ubuntu, Kali)
 
-### 🌐 Redes  
-- Redes locales (LAN)
-- Servicios Web
+**Redes y Servicios:**  
+LAN · DHCP · DNS (BIND) · Apache · SSH · Squid  
 
-### 🔧 Hardware  
-- Montaje de equipos  
-- Mantenimiento preventivo  
+**Hardware:**  
+Montaje y mantenimiento de equipos  
 
-### 🖥️ Virtualización  
-- VirtualBox  
+**Virtualización:**  
+VirtualBox  
 
-### 🧠 Scripting & Programación  
-- PowerShell (básico)  
-- Bash (básico-intermedio)  
-- Python  
+**Scripting y Programación:**  
+PowerShell · Bash · Python  
 
-### 📂 Herramientas  
-- Git  
-- GitHub  
-- Microsoft Office  
-- LibreOffice  
+**Herramientas:**  
+Git · GitHub · Microsoft Office · LibreOffice  
 
 ---
 
-## 📁 Proyectos Destacados  
+## 📁 Proyectos  
 
-Desarrollo de una pagina web para proyecto intermodular mediante WordPress
+- 🔧 **Scripts de Automatización** (PowerShell y Bash)  
+  Copias de seguridad, gestión de usuarios y grupos, permisos, discos y mantenimiento del sistema.
 
-### 🔧 Scripts de Automatización  
-*PowerShell · Bash*  
-Colección de scripts para automatizar tareas comunes en Windows y Linux:  
-- Copias de seguridad
-- Creación de usuarios y grupos
-- Administración de discos y partituras
-- Control de permisos
-- Limpieza del sistema  
+- 🌐 **Administración de Servidores en Debian (Webmin)**  
+  Configuración de servidor de correo, DNS (BIND), Apache, SSH y proxy Squid en entorno de laboratorio.
 
----
+- 🖥️ **Guía de Montaje de PC**  
+  Documentación técnica del proceso completo de ensamblaje de un equipo.
 
-### 🖥️ Guía de Montaje de PC  
-*Hardware · Documentación técnica*  
-Tutorial detallado del montaje completo de un equipo:  
-- Lista de componentes  
-- Proceso paso a paso  
+- 🌍 **Página Web con WordPress**  
+  Desarrollo de proyecto intermodular.
+  https://legateauxcamous.infinityfreeapp.com/
 
 ---
 
-### 🌐 Configuración de Servidor DHCP  
-*Windows Server · Redes*  
-Implementación y configuración de distintos servicios en entorno Linux utilizando Webmin:
-- Servidor de correo para gestón de usuarios
-- Servidor DNS con BIND
-- Configuración y administración de SSH
-- Servidor Web Apache
-- Servidor proxy con Squid
+## 💼 Experiencia  
 
----
-
-### 📊 Página Web
-*HTML · CSS*  
-Proyecto web sencillo desarrollado como práctica académica.  
-
-🔗 https://legateauxcamous.infinityfreeapp.com/
-
----
-
-### Técnico Informático en prácticas  
-*La Purísima Alzira | 120 horas*
-- Atención al cliente y gestión telefónica
-- Conocimiento de aplicaciones ofimáticas
-- Instalación y mantenimiento de equipos
-- Resolución de problemas de conexión
+**Técnico Informático en prácticas**  
+*La Purísima Alzira | 120 horas*  
+- Instalación y mantenimiento de equipos  
+- Resolución de incidencias de conexión  
+- Atención al cliente y soporte básico  
 
 ---
 
 ## 📫 Contacto  
 
-📧 Email: stephaniecamousgonzalez@gmail.com
-
----
-
+📧 stephaniecamousgonzalez@gmail.com
