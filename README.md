@@ -55,6 +55,26 @@ Git · GitHub · Microsoft Office · LibreOffice
 
 ## 💼 Experiencia  
 
+**Encargada de turno** — Telepizza, Alzira, Valencia  
+03/2023 - 06/2023 · 07/2023 - 06/2024 · 09/2025 - Actualmente  
+- Gestión de equipo, apertura/cierre de local y control de caja  
+- Atención al cliente y resolución de incidencias  
+- Organización, limpieza y supervisión de pedidos, inventario y suministros  
+- Experiencia en amasado, horno y preparación de pedidos  
+
+**Estudiante en prácticas** — Colegio La Purísima, Alzira, Valencia  
+05/2025 - 06/2025  
+- Atención al cliente y gestión telefónica  
+- Apoyo administrativo y organización de recepción  
+- Instalación y mantenimiento de equipos  
+- Uso de aplicaciones ofimáticas y resolución de problemas técnicos  
+
+**Dependienta / Cajera / Reponedora** — FORPREU S.L., Islas Baleares  
+06/2022 - 08/2022 · 06/2023 - 08/2023  
+- Atención al cliente y gestión de ventas  
+- Reposición y organización del piso de venta  
+- Mantenimiento del orden y limpieza del local
+
 **Técnico Informático en prácticas**  
 *La Purísima Alzira | 120 horas*  
 - Instalación y mantenimiento de equipos  
