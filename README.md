@@ -10,7 +10,7 @@ Soy técnica en Sistemas Microinformáticos y Redes con experiencia en montaje y
 
 Me interesa especialmente la automatización de tareas, la virtualización de sistemas y el desarrollo y mantenimiento de sitios web con WordPress para entornos profesionales.
 
-Actualmente busco mi primera oportunidad profesional en el sector tecnológico para seguir creciendo, aportar valor y ganar experiencia en entornos reales.
+Actualmente busco mi primera oportunidad profesional en el sector tecnológico para ganar experiencia en entornos reales.
 
 ---
 
@@ -79,43 +79,26 @@ Implementación y configuración de distintos servicios en entorno Linux utiliza
 
 ---
 
-### 📊 Página Web Estática  
+### 📊 Página Web
 *HTML · CSS*  
 Proyecto web sencillo desarrollado como práctica académica.  
 
-🔗 https://github.com/tuusuario/mi-primera-web  
+🔗 https://legateauxcamous.infinityfreeapp.com/
 
 ---
-
-## 📜 Certificaciones  
-
-- 🎓 Cisco Networking Academy — Introduction to Networks  
-- 🎓 Google Actívate — Informática Básica  
-- 🎓 INCIBE — Seguridad en Internet  
-
----
-
-## 💼 Experiencia  
 
 ### Técnico Informático en prácticas  
-**[Empresa] | [Periodo]**  
-- Instalación y configuración de equipos.  
-- Soporte técnico a usuarios (hardware y software).  
-- Gestión y mantenimiento de inventario IT.  
-
-### Soporte técnico (voluntariado)  
-**[Asociación/Evento] | [Periodo]**  
-- Montaje y configuración de equipos.  
-- Resolución de incidencias durante el evento.  
+*La Purísima Alzira | 120 horas*
+- Atención al cliente y gestión telefónica
+- Conocimiento de aplicaciones ofimáticas
+- Instalación y mantenimiento de equipos
+- Resolución de problemas de conexión
 
 ---
 
 ## 📫 Contacto  
 
-🔗 LinkedIn: https://linkedin.com/in/tuusuario  
-📧 Email: tu.email@ejemplo.com  
-🌐 Portfolio: Próximamente  
+📧 Email: stephaniecamousgonzalez@gmail.com
 
 ---
 
-⭐ Este perfil forma parte de mi currículum técnico en GitHub. Todos los proyectos están disponibles para revisión.
